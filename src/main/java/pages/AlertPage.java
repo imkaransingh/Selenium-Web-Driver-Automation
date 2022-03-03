@@ -37,4 +37,5 @@ public class AlertPage {
     public void alert_setInput(String text){
         driver.switchTo().alert().sendKeys(text);
     }
+    Balle Balle
 }
